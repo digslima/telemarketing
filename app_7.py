@@ -54,7 +54,7 @@ def main():
     )
 
     # Título principal da aplicação
-    st.write('# Telemarketing analisys')
+    st.write('# Telemarketing analisys Diego Lima')
     st.markdown("---")
     
     # Apresenta a imagem na barra lateral da aplicação
@@ -224,7 +224,6 @@ def main():
 if __name__ == '__main__':
 	main()
     
-
 
 
 
